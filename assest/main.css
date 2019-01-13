@@ -1,0 +1,149 @@
+/* Created By Salman :) 	|	Twiiter @MrHoora */
+body {
+				  margin: 0;
+				  font-family: Arial, Helvetica, sans-serif;
+				  background-image: url("http://static.simpledesktops.com/uploads/desktops/2012/10/14/Space.png");
+				  background-color: #cccccc;
+				  height: 500px;
+				  background-position: center;
+				  background-repeat: no-repeat;
+				  background-size: cover;
+				  position: relative;
+				}
+
+				header{
+					padding: 10px 10px;
+					text-align: right;
+					background: #dedede7d;
+					font-size: 24px;
+					font-weight: bold;
+					font-family: tahoma;
+				}
+
+				footer{
+					padding: 10px 10px;
+					text-align: right;
+					background: #dedede7d;
+					font-size: 18px;
+					font-weight: bold;
+					font-family: tahoma;
+					margin-top: 39.6%;
+					text-align: center;
+				}
+
+				table{
+					width:37%;
+				}
+
+				input{
+					text-align: center;
+					font-weight: bold;
+					font-size: 20px;
+					border-radius: 6px;
+					border:1px solid #fff;
+				}
+
+				textarea{
+					text-align: center;
+					font-weight: bold;
+					font-size: 20px;
+					border-radius: 6px;
+					border:1px solid #fff;
+				}
+
+				.LoginForm{
+					margin-right: 35%;
+					padding: 25px;
+					width: 100%;
+				}
+
+				.btnHeader1{
+					margin-left: 5%;
+					background-color: #008CBA; /* Blue */
+					border: none;
+					border-radius: 5px;
+					color: white;
+					padding: 15px 32px;
+					text-align: center;
+					text-decoration: none;
+					display: inline-block;
+					font-size: 20px;
+					margin: 4px 2px;
+					cursor: pointer;
+				}
+
+				.btnHeader1:hover{
+					margin-left: 5%;
+					background-color: #1cc2f9ba; /* Lightblud */
+					border: none;
+					border-radius: 10px;
+					color: white;
+					padding: 15px 32px;
+					text-align: center;
+					text-decoration: none;
+					display: inline-block;
+					font-size: 20px;
+					margin: 4px 2px;
+					cursor: pointer;
+				}
+
+				.activeBtn{
+					background-color: #1cc2f9ba; /* Lightblud */
+				}
+
+				.lSide {
+					float: left;
+					padding: 20px 10px;
+					width: 15%;
+					height: 80%;
+					/*background: #dedede7d;*/
+					margin-left: 0.3%;
+    				margin-top: 2%;
+				}
+
+				.cSide{
+					background: #dedede7d;
+					height: 79%;
+					margin-top: 3.3%;
+					margin-right: 9px;
+					text-align: center;
+				    width: 80%;
+				    float: right;
+				    padding: 20px 20px;
+				    border:0.2px solid #fff;
+				    border-top-right-radius:5px;
+				    border-top-left-radius:5px;
+				    border-bottom-right-radius:5px;
+				    border-bottom-left-radius:5px;
+				}
+
+				.title{
+					font-size: 60px;
+					font-weight: bold;
+					font-family: 'Staatliches', cursive;
+				}
+
+				.subTitle{
+					font-family: 'Changa', sans-serif;
+					font-size: 28px;
+				}
+
+				.dirRTL{
+					direction: rtl;
+				}
+
+				.font1{
+					font-family: 'Reem Kufi', sans-serif;
+				}
+
+				.font2{
+					font-family: 'Jomhuria', cursive;
+				}
+
+				.size26{
+					font-size: 26px;
+				}
+
+				.btnForm{
+					width: 120px;
+				}
